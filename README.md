@@ -25,8 +25,8 @@ using `Cache::getAPI()`
 
 # Config Command
 - `cache.yml`
-  -`command: ` - true
-               - false
+  - `command: ` - true
+                - false
 
 
 
