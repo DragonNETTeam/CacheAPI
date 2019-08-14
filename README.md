@@ -26,7 +26,7 @@ using `Cache::getAPI()`
 # Config Command
 - `cache.yml`
   - `command: true` - The command will be registered `/cache [save/get]` and will be enabled for user use
-  - `command: false` - Commando will not be enabled and the only way to access events is to use the api from another plugin.
+  - `command: false` - Command will not be enabled and the only way to access events is to use the api from another plugin.
   
 # DragonNET MCPE | MC Developers
   - `Discord` - https://discord.gg/AaNskGT
