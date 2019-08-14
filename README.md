@@ -29,7 +29,7 @@ using `Cache::getAPI()`
   - `command: false` - Commando will not be enabled and the only way to access events is to use the app from another plugin.
   
 # DragonNET MCPE | MC Developers
-  - `Join our community` - https://discord.gg/AaNskGT
+  - `Discord` - https://discord.gg/AaNskGT
   - `Twitter` - Desconocido link
   - `YouTube` - Desconocido link
   
