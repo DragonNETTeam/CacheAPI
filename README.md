@@ -14,7 +14,8 @@ use item\Cache;
 Cache::getAPI()
 ```
 
-# Functions using `Cache::getAPI()`
+# Functions using
+using `Cache::getAPI()`
 
 - `add($player)` - SAVE PLAYER ITEMS ARMOR AND ITEMS
 - `remove($player)` - DELETE ITEMS AND SESSION THE PLAYER
