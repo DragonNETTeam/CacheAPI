@@ -24,7 +24,9 @@ using `Cache::getAPI()`
 - `existsArmor($player)` - CHECK IF THE PLAYER HAS ARMOR
 
 # Config Command
-
+- `cache.yml`
+  -`command: ` - true
+               - false
 
 
 
