@@ -11,7 +11,11 @@ use item\Cache;
 
 # Call Events
 ```
-Cache::getApi()
+Cache::getAPI()
 ```
+
+# Functions
+
+`Cache::getAPI()->add($player);` 
 
 
