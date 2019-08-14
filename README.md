@@ -6,7 +6,7 @@ The api can be used with the default command or synchronize with another plugin
 
 # Import
 ```
-use item\Cache;
+use item\Cache; 
 ```
 
 # Call Events
@@ -14,8 +14,16 @@ use item\Cache;
 Cache::getAPI()
 ```
 
-# Functions
+# Functions using `Cache::getAPI()`
 
-`Cache::getAPI()->add($player);` 
+`add($player)` SAVE PLAYER ITEMS ARMOR AND ITEMS
+`remove($player)` DELETE ITEMS AND SESSION THE PLAYER
+`call($player)` ADD ITEMS RETURN TO PLAYER IF THERE ARE
+`existsItem($player)` CHECK IF THE PLAYER HAS ITEMS
+`existsArmor($player)` CHECK IF THE PLAYER HAS ARMOR
+
+# Config Command
+
+
 
 
