@@ -16,11 +16,11 @@ Cache::getAPI()
 
 # Functions using `Cache::getAPI()`
 
-`add($player)` SAVE PLAYER ITEMS ARMOR AND ITEMS
-`remove($player)` DELETE ITEMS AND SESSION THE PLAYER
-`call($player)` ADD ITEMS RETURN TO PLAYER IF THERE ARE
-`existsItem($player)` CHECK IF THE PLAYER HAS ITEMS
-`existsArmor($player)` CHECK IF THE PLAYER HAS ARMOR
+- `add($player)` - SAVE PLAYER ITEMS ARMOR AND ITEMS
+- `remove($player)` - DELETE ITEMS AND SESSION THE PLAYER
+- `call($player)` - ADD ITEMS RETURN TO PLAYER IF THERE ARE
+- `existsItem($player)` - CHECK IF THE PLAYER HAS ITEMS
+- `existsArmor($player)` - CHECK IF THE PLAYER HAS ARMOR
 
 # Config Command
 
