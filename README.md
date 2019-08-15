@@ -34,9 +34,10 @@ using `Cache::getAPI()`
   - `Discord` - https://discord.gg/AaNskGT
   - `Twitter` - https://twitter.com/DragonNetDevs
   - `YouTube` - Desconocido link
-  
+  <a href="https://discord.gg/AaNskGT"><img src="https://discordapp.com/api/guilds/610195384618188814/embed.png" alt="Discord server"/></a>
+
   ```
-  <iframe src="https://discordapp.com/widget?id=610195384618188814&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
   INFORMACION GENERAL
   ```
 
