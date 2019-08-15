@@ -31,10 +31,10 @@ using `Cache::getAPI()`
   - `command: false` - Command will not be enabled and the only way to access events is to use the api from another plugin.
   
 # DragonNET MCPE | MC Developers
-  - `Discord` - https://discord.gg/AaNskGT
+  - `Discord` -  <a href="https://discord.gg/AaNskGT"><img src="https://discordapp.com/api/guilds/610195384618188814/embed.png" alt="Discord server"/></a>
   - `Twitter` - https://twitter.com/DragonNetDevs
   - `YouTube` - Desconocido link
-  <a href="https://discord.gg/AaNskGT"><img src="https://discordapp.com/api/guilds/610195384618188814/embed.png" alt="Discord server"/></a>
+ 
 
   ```
 
