@@ -36,6 +36,7 @@ using `Cache::getAPI()`
   - `YouTube` - Desconocido link
   
   ```
+  <iframe src="https://discordapp.com/widget?id=610195384618188814&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
   INFORMACION GENERAL
   ```
 
