@@ -31,8 +31,6 @@ if(isset(Cache::$handler[$player->getName()])){
 
 public function call(Player $player){
     if(isset(Cache::$session[$player->getName()])){
-        $player->getInventory()->clearAll();
-        $player->getArmorInventory()->clearAll();
         $player->getInventory()->setContents(Cache::$session[$player->getName()]);
         $player->getArmorInventory()->setContents(Cache::$handler[$player->getName()]);
         $this->remove($player);
