@@ -1,7 +1,6 @@
 <?php
 namespace item;
 use pocketmine\Player;
-use item\Cache;
 class AsyCallable {
 
 public function add(Player $player){
