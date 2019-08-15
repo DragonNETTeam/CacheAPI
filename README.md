@@ -1,4 +1,6 @@
 # CacheAPI
+
+Save your items in the cloud by the session, it can be applied in survival plots among many more games.
 Api version Beta `1.0.0` report bugs in `https://discord.gg/AaNskGT`
 
 # Util
@@ -30,7 +32,7 @@ using `Cache::getAPI()`
   
 # DragonNET MCPE | MC Developers
   - `Discord` - https://discord.gg/AaNskGT
-  - `Twitter` - Desconocido link
+  - `Twitter` - https://twitter.com/DragonNetDevs
   - `YouTube` - Desconocido link
   
   ```
