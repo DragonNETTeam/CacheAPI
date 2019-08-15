@@ -1,0 +1,5 @@
+name: CacheAPI
+main: item\Cache
+api: [3.0.0]
+author: DragonNET_TeamDev
+version: 1.0
