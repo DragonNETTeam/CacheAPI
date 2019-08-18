@@ -33,7 +33,7 @@ using `Cache::getAPI()`
 # DragonNET MCPE | MC Developers
   - `Discord` -  <a href="https://discord.gg/AaNskGT"><img src="https://discordapp.com/api/guilds/610195384618188814/embed.png" alt="Discord server"/></a>
   - `Twitter` - https://twitter.com/DragonNetDevs
-  - `YouTube` - Desconocido link
+  - `YouTube` - https://www.youtube.com/channel/UC-ZmXho33hTtI6-N4ApbEGw?view_as=subscriber
  
 
   ```
